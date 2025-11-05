@@ -64,19 +64,21 @@ TBA
 
 ### Program Committee (tentative)
 
+Rasmus Adler, Fraunhofer IESE, Germany\
 Klaus Becker, Continental, Germany\
 Christian Berger, University of Gothenburg, Sweden\
-Darko Durisic, Volvo Cars, Sweden\
+Sujit Kumar Chakrabarti, IIIT-B (International Institute of Information Technology Bangalore), India\
+Predrag Filipovikj, Scania, Sweden\
 Thomas Galla, Elektrobit, Germany\
+Elena Lisova, VCE, Sweden\
+Andreas Morgenstern, Mercedes, Germany\
 Philipp Obergfell, BMW Group, Germany\
+Aditya A. Paranjape, TCS Research, India\
 Ramesh S, General Motors, USA\
 Miroslaw Staron, University of Gothenburg, Sweden\
 Mark van den Brand, Eindhoven University of Technology, The Netherlands\
 Andreas Vogelsang, Universität Duisburg-Essen, Germany\
-Sujit Kumar Chakrabarti, IIIT-B (International Institute of Information Technology Bangalore), India\
-Aditya A. Paranjape, TCS Research, India\
-Elena Lisova, VCE, Sweden\
-Predrag Filipovikj, Scania, Sweden
+
 
 ## History 
 - [11th International Workshop on Automotive System/Software Architecture, Odense, Denmark, 2025](https://wasa-workshop.github.io/2025/)
