@@ -41,30 +41,17 @@ The program committee of the 12th WASA edition seeks submissions of original and
 
 Submissions must follow the [IEEE Computer Science proceedings format](https://www.ieee.org/conferences/publishing/templates.html), as workshop proceedings will be published in ICSA 2026 Companion proceedings, and appear in IEEE Xplore Digital Library.
 
-Papers need to be submitted electronically via [EasyChair](https://easychair.org/conferences/?conf=icsa2025).
+Papers need to be submitted electronically via [EasyChair](https://easychair.org/my2/conference?conf=icsa2026) by selecting the WASA track.
 
 
 ## Important Dates
-All dates are AoE.
-
-**Paper submission**: December 20, 2024\
-**Paper notification**: January 20, 2025\
-**Camera-ready workshop papers due**: January 27, 2025\
-**Workshop dates**: March 31, 2025
+**Paper submission**: Friday, 13 February, 2026\
+**Paper notification**: Friday, 13 March, 2026\
+**Camera-ready workshop papers due**: Friday, 27 March, 2026\
+**Workshop dates**: June 22 or 23, 2026
 
 ## Program
-
-| Session    | Time CET       | Paper                                                                                          |
-|------------|--------------|------------------------------------------------------------------------------------------------------|
-| Morning&nbsp; 1  | 09:15&nbsp;- &nbsp;09:30` | Opening                                                                                              |
-|            | 09:30 - 10:00 | *Elevating Traffic Safety: Insights into Autonomous Emergency Braking Systems in Varied Highway Environments* by Ricardo Ribeiro, Catarina Gonçalves and Nuno Pombo |
-| Morning&nbsp;2  | 10:00 - 10:30 | Coffee Break                                                                                        |
-|            | 10:30 - 11:00 | *An Evolvable Knowledge Graph Supporting a Hybrid Intelligence Autonomous Driving System* by Anna Teern, Nada Elgendy, Pertti Seppänen and Tero Päivärinta |
-|            | 11:00 - 11:30 | *Complexity Handling in Software-Defined Vehicle: Documenting the Expert Knowledge* by Xinxin Zhu, Rose Sturm, Christian Seiler and Stefan Wagner |
-|            | 11:30 - 12:30 | Lunch Break                                                                                        |
-|            | 12:30 - 13:00 | *Towards Data-Centric and Context-Aware Decision Making in Software-Defined Vehicles* by Ella Peltonen, Vishaka Basnayake, Nada Elgendy, Benjamin Kämä, Pertti Seppänen and Tero Päivärinta |
-|            | 13:00 - 13:30 | Discussion                                                                                          |
-|            | 13:30 - 13:40 | Closing                                                                                            |
+TBA
 
 ## Committees
 
@@ -85,7 +72,7 @@ Philipp Obergfell, BMW Group, Germany\
 Ramesh S, General Motors, USA\
 Miroslaw Staron, University of Gothenburg, Sweden\
 Mark van den Brand, Eindhoven University of Technology, The Netherlands\
-Andreas Vogelsang, University of Cologne, Germany\
+Andreas Vogelsang, Universität Duisburg-Essen, Germany\
 Sujit Kumar Chakrabarti, IIIT-B (International Institute of Information Technology Bangalore), India\
 Aditya A. Paranjape, TCS Research, India\
 Elena Lisova, VCE, Sweden\
