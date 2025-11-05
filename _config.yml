@@ -1,13 +1,13 @@
-title: WASA 2025
-description: The 11th International Workshop on Automotive System/Software Architectures
+title: WASA 2026
+description: The 12th International Workshop on Autonomous Systems and Software Architecture
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
-keywords: "workshops, automotive, software engineering, software architecture"
+keywords: "workshops, automotive, software engineering, software architecture, autonomous systems"
 
 # author settings for cc-by, appears in the footer
 author: Stefan Kugele, Yanja Dajsuren, Alessio Bucaioni, and Jasmin Jahić
-pub_year: 2025
+pub_year: 2026
 github_username: stefankugele
 
 
