@@ -78,8 +78,8 @@ Aditya A. Paranjape, TCS Research, India\
 Elena Lisova, VCE, Sweden\
 Predrag Filipovikj, Scania, Sweden
 
-## History
-
+## History 
+- [11th International Workshop on Automotive System/Software Architecture, Odense, Denmark, 2025](https://wasa-workshop.github.io/2025/)
 - [10th International Workshop on Automotive System/Software Architecture, Hyderabad, India, 2024](https://wasa-workshop.github.io/2024/)
 - [9th International Workshop on Automotive System/Software Architecture, L’Aquila, Italy, 2023](https://wasa-workshop.github.io/2023/)
 - [8th International Workshop on Automotive System/Software Architecture, Prague, Czech Republic, 2022](https://www.win.tue.nl/wasa2022/)
