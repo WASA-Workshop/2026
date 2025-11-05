@@ -2,30 +2,27 @@
 layout: default
 ---
 
-# Welcome to WASA 2025
+# Welcome to WASA 2026
+With the advent of software and electronics, automotive and mobility companies enable innovation to improve safety, security, driver experience, and driving autonomy. Moreover, the complexity and size of software continue to grow with innovations, such as self-learning algorithms and advanced driving and mobility features, which all lead to the ultimate goal of autonomously driving vehicles. Consequently, the increasing use of software introduced a paradigm shift by requiring automotive and mobility companies to develop their systems using architecture and model-based techniques. Although model-based techniques, e.g. MATLAB/Simulink and Stateflow, are being accepted in the automotive industry as standard languages and tools for developing automotive control software, system and software architecture techniques are still far from being widely accepted. This excludes the AUTOSAR standard, which defines the language for designing and configuring automotive software architectures and identifies major architectural components of automotive systems. 
 
-In the modern automotive landscape, the integration of software and electronics has catalyzed innovations that enhance safety, security, driver experience, and vehicular automation. As the horizon of innovation expands, encompassing developments like self-adaptive algorithms and sophisticated driving automation, the quest for fully autonomous vehicles intensifies. This surge in software dependency has precipitated a paradigmatic shift, necessitating automotive companies to harness architectural and model-based development techniques.
-While model-based tools and methodologies are gaining traction as standard languages and tools for crafting automotive control software, broader system and software architecture methodologies remain less universally embraced. A notable exception is the AUTOSAR standard, which delineates the lexicon for designing and configuring automotive software architectures and demarcates principal architectural constituents of automotive systems.
-
-This workshop is dedicated to confronting challenges associated with refining and standardizing automotive system/software architecture and engineering techniques for broader industry acceptance. In alliance with the [International Conference on Software Architecture (ICSA)](https://conf.researchr.org/home/icsa-2025) - a vanguard in the software architecture realm – the Workshop on Automotive System/Software Architecture (WASA) seeks to amalgamate insights from both researchers and practitioners. We aspire that this confluence will not only spotlight novel research trajectories, challenges, and roadmaps but also foster enduring partnerships bridging academia and industry well beyond the workshop's conclusion.
+This workshop addresses issues related to autonomous systems and their software architecture and engineering techniques, relevant for the industry of autonomous systems. Therefore, to bring together researchers and practitioners in autonomous systems and software architecture and engineering, WASA is being organised with the [International Conference on Software Architecture (ICSA)](https://conf.researchr.org/home/icsa-2026), the premier international software architecture conference. Our goal is that the workshop will identify new research directions, roadmaps, challenges, and establish long-term collaborations between participants from both academia and industry, even after the workshop.
 
 ## Call for Papers
-The program committee of the 10th WASA edition seeks submissions of original and unpublished high-quality papers describing fundamental and applied research, new methods, approaches, and processes, novel applications, approaches for education and training in automotive system/software architecture, and experience reports on all topics related to software architecture including, but not limited to:
+The program committee of the 12th WASA edition seeks submissions of original and unpublished high-quality papers describing fundamental and applied research, new methods, approaches, and processes, novel applications, approaches for education and training in automotive system/software architecture, and experience reports on all topics related to software architecture including, but not limited to:
 
-- Automotive system/software architecture
+- Autonomous systems and software architectures:
   - architecture description languages
   - hardware/software co-design
   - design patterns
   - communication infrastructure
   - centralized/zonal architectures
-  - influence of AI on architecture
-  - security, Over-the-air updates
+  - influence of AI technologies on architecture
+  - influence of security requirements due to over-the-air updates or car-2-X communication on the architecture
   - service-oriented architectures
-- Automotive software & systems engineering:
+- Automotive, robotics, and mobility (e.g., drones) software & systems engineering:
   - software quality, safety, security
   - model-based design, component-based design
-  - CI/CD, agile processes
-  - software ecosystems
+  - CI/CD, agile processes, software ecosystems
   - hybrid & fully electric vehicles
   - cooperative and automated driving
   - data analytics
@@ -38,11 +35,11 @@ The program committee of the 10th WASA edition seeks submissions of original and
 
 ### Types of Submissions
 
-- **Full papers** (max. 10 pages in IEEE Computer Science proceedings format) presenting novel research ideas, significant empirical studies, successful industrial applications, or important perspectives.
+- **Full papers** (max. 8 pages in IEEE Computer Science proceedings format) presenting novel research ideas, significant empirical studies, successful industrial applications, or important perspectives.
 - **Industrial papers** (max. 6 pages in IEEE Computer Science proceedings format) sharing industrial experience, challenges, research or technical problems, case studies.
 - **Position or future trend papers** (max. 4 pages in IEEE Computer Science proceedings format) raising new ideas, challenges, ongoing research or early research results, and future trends.
 
-Submissions must follow the [IEEE Computer Science proceedings format](https://www.ieee.org/conferences/publishing/templates.html), as workshop proceedings will be published in ICSA 2025 Companion proceedings, and appear in IEEE Xplore Digital Library.
+Submissions must follow the [IEEE Computer Science proceedings format](https://www.ieee.org/conferences/publishing/templates.html), as workshop proceedings will be published in ICSA 2026 Companion proceedings, and appear in IEEE Xplore Digital Library.
 
 Papers need to be submitted electronically via [EasyChair](https://easychair.org/conferences/?conf=icsa2025).
 
