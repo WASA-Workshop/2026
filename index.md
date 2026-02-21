@@ -45,7 +45,7 @@ Papers need to be submitted electronically via [EasyChair](https://easychair.org
 
 
 ## Important Dates
-**Paper submission**: Friday, 13 February, 2026\
+**Paper submission**: Friday, 20 February, 2026 (extended) ~~Friday, 13 February, 2026~~\
 **Paper notification**: Friday, 13 March, 2026\
 **Camera-ready workshop papers due**: Friday, 27 March, 2026\
 **Workshop dates**: June 22 or 23, 2026
