@@ -77,7 +77,7 @@ Aditya A. Paranjape, TCS Research, India\
 Ramesh S, General Motors, USA\
 Miroslaw Staron, University of Gothenburg, Sweden\
 Mark van den Brand, Eindhoven University of Technology, The Netherlands\
-Andreas Vogelsang, Universität Duisburg-Essen, Germany\
+Andreas Vogelsang, Universität Duisburg-Essen, Germany
 
 
 ## History 
