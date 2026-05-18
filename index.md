@@ -52,8 +52,7 @@ Papers need to be submitted electronically via [EasyChair](https://easychair.org
 
 This year, the WASA workshop will be jointly oprganised together with the [ANGE workshop](https://icsaworkshop.github.io/ange-2026/).
 
-## Program
-### 📅 Tuesday, June 23 — WASA / ANGE
+## Program (📅 Tuesday, June 23)
 
 **Room 4B47 · Vrije Universiteit Amsterdam · ICSA 2026**
 
@@ -89,7 +88,7 @@ This year, the WASA workshop will be jointly oprganised together with the [ANGE 
 | 3:45 – 4:00 | A Survey on Risk-Adaptive Approaches in Autonomous Ecosystems | Rui Zhang, David Halasz, Dimitri Van Landuyt | 15 |
 | 4:00 – 4:15 | Towards Collecting Large-Scale Vehicular Sensor Data for Open Access | Benjamin Kämä, Olli Timonen, Nicklas Stafford, Jere Lotvonen, Otto Kalliokoski, Aleksi Kanerva, Prabhash Rathnayake, Sameera Gamage, Aleksi Vuorinen, Siva Ariram, Ekaterina Gilman, Ella Peltonen | 15 |
 | 4:15 – 4:30 | Evolvable Knowledge Graph Demonstration for Route Planning: Learning Through Utilization | Anna Teern, Hassan Khattak, Syed Jawad Akhtar, Nada Elgendy, Pertti Seppänen, Tero Päivärinta | 15 |
-| 4:30 – 4:40 | | 🏁 Closing Remarks | TBD | 10 |
+| 4:30 – 4:40 | 🏁 Closing Remarks | TBD | 10 |
 
 ## Committees
 
