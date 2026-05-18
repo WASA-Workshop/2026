@@ -61,10 +61,10 @@ This year, the WASA workshop will be jointly oprganised together with the [ANGE 
 
 ### 🎤 1:30 PM – 2:30 PM · Opening and Keynote
 
-| Time | # | Title | Authors / Speaker | Min |
+| Time | Title | Authors / Speaker | Min |
 |:-----|:---:|:------|:------------------|:---:|
-| 1:30 – 1:45 | | Welcome and Opening | Alessio Bucaioni | 15 |
-| 1:45 – 2:30 | | **Keynote:** A reference architecture for ethical-aware autonomous systems | Martina De Sanctis | 45 |
+| 1:30 – 1:45 | Welcome and Opening | Alessio Bucaioni | 15 |
+| 1:45 – 2:30 | **Keynote:** A reference architecture for ethical-aware autonomous systems | Martina De Sanctis | 45 |
 
 ---
 
@@ -81,7 +81,7 @@ This year, the WASA workshop will be jointly oprganised together with the [ANGE 
 
 ---
 
-### 🔬 3:30 PM – 5:00 PM · Session 2 (WASA)
+### 💡 3:30 PM – 5:00 PM · Session 2 (WASA)
 
 | Time | Title | Authors / Speaker | Min |
 |:-----|:---:|:------|:------------------|:---:|
