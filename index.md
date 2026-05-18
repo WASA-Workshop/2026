@@ -48,10 +48,48 @@ Papers need to be submitted electronically via [EasyChair](https://easychair.org
 **Paper submission**: Friday, 20 February, 2026 (extended) ~~Friday, 13 February, 2026~~\
 **Paper notification**: Friday, 13 March, 2026\
 **Camera-ready workshop papers due**: Friday, 27 March, 2026\
-**Workshop dates**: June 22 or 23, 2026
+**Workshop dates**: June 23, 2026
+
+This year, the WASA workshop will be jointly oprganised together with the [ANGE workshop](https://icsaworkshop.github.io/ange-2026/).
 
 ## Program
-TBA
+## 📅 Tuesday, June 23 — WASA / ANGE
+
+**Room 4B47 · Vrije Universiteit Amsterdam · ICSA 2026**
+
+---
+
+### 🎤 1:30 PM – 2:30 PM · Opening and Keynote
+
+| Time | # | Title | Authors / Speaker | Min |
+|:-----|:---:|:------|:------------------|:---:|
+| 1:30 – 1:45 | | Welcome and Opening | Alessio Bucaioni | 15 |
+| 1:45 – 2:30 | | **Keynote:** A reference architecture for ethical-aware autonomous systems | Martina De Sanctis | 45 |
+
+---
+
+### 💡 2:30 PM – 3:00 PM · Session 1: Architecting AI-Driven Autonomous and Edge Ecosystems
+
+| Time | Title | Authors / Speaker | Min |
+|:-----|:---:|:------|:------------------|:---:|
+| 2:30 – 2:45 | Advancing Decision Tree-based Online Inference for Edge Computing | Lorenzo Abate, Mario Barbareschi | 15 |
+| 2:45 – 3:00 | RAD-AI: Rethinking Architecture Documentation for AI-Augmented Ecosystems | Oliver Larsen, Mahyar Tourchi Moghaddam | 15 |
+
+---
+
+### ☕ 3:00 PM – 3:30 PM · Break
+
+---
+
+### 🔬 3:30 PM – 5:00 PM · Session 2 (WASA)
+
+| Time | Title | Authors / Speaker | Min |
+|:-----|:---:|:------|:------------------|:---:|
+| 3:30 – 3:45 | Expert Perspectives on Designing the Architecture of Software-Defined Electric Vehicles | Rodi Jolak, Christian Casanova, Efi Papatheocharous, Ellen Scott, Iraklis Symeonidis, Pontus Svenson | 15 |
+| 3:45 – 4:00 | A Survey on Risk-Adaptive Approaches in Autonomous Ecosystems | Rui Zhang, David Halasz, Dimitri Van Landuyt | 15 |
+| 4:00 – 4:15 | Towards Collecting Large-Scale Vehicular Sensor Data for Open Access | Benjamin Kämä, Olli Timonen, Nicklas Stafford, Jere Lotvonen, Otto Kalliokoski, Aleksi Kanerva, Prabhash Rathnayake, Sameera Gamage, Aleksi Vuorinen, Siva Ariram, Ekaterina Gilman, Ella Peltonen | 15 |
+| 4:15 – 4:30 | Evolvable Knowledge Graph Demonstration for Route Planning: Learning Through Utilization | Anna Teern, Hassan Khattak, Syed Jawad Akhtar, Nada Elgendy, Pertti Seppänen, Tero Päivärinta | 15 |
+| 4:30 – 4:40 | | 🏁 Closing Remarks | TBD | 10 |
 
 ## Committees
 
