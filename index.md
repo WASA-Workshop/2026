@@ -53,7 +53,7 @@ Papers need to be submitted electronically via [EasyChair](https://easychair.org
 This year, the WASA workshop will be jointly oprganised together with the [ANGE workshop](https://icsaworkshop.github.io/ange-2026/).
 
 ## Program
-## 📅 Tuesday, June 23 — WASA / ANGE
+### 📅 Tuesday, June 23 — WASA / ANGE
 
 **Room 4B47 · Vrije Universiteit Amsterdam · ICSA 2026**
 
