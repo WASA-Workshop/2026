@@ -63,7 +63,7 @@ This year, the WASA workshop will be jointly oprganised together with the [ANGE 
 | Time | Title | Authors / Speaker | Min |
 |:-----|:---:|:------|:------------------|:---:|
 | 1:30 – 1:45 | Welcome and Opening | Alessio Bucaioni | 15 |
-| 1:45 – 2:30 | **Keynote:** A reference architecture for ethical-aware autonomous systems | Martina De Sanctis | 45 |
+| 1:45 – 2:30 | **Keynote:** Architecting for Ethical Awareness: From Human Values to System Design | Martina De Sanctis | 45 |
 
 ---
 
